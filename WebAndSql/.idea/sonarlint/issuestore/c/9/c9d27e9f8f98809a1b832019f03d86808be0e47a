@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á¿ä‰
+]	java:S1258"<This block of commented-out lines of code should be removed.(ý”ÃÔýÿÿÿÿ8¬¢€™‘/
+t
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÆÝ­:8‚‚Ï’‘/
+]	java:S125:"<This block of commented-out lines of code should be removed.(µ£‘±øÿÿÿÿ8¬¢€™‘/

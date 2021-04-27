@@ -1,0 +1,6 @@
+
+q	java:S116"URename this field "student_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ό‰Μ8¬νι/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώ£Κιωÿÿÿÿ8ζ ι/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΑΏδ‰
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώ£Κιωÿÿÿÿ8ζ ι/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ί«χ8ζ ι/
